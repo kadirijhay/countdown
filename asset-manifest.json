@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/countdown/static/css/main.223ff0d7.chunk.css",
-    "main.js": "/github.io/countdown/static/js/main.37e67bfc.chunk.js",
-    "main.js.map": "/github.io/countdown/static/js/main.37e67bfc.chunk.js.map",
-    "runtime~main.js": "/github.io/countdown/static/js/runtime~main.0da44d2b.js",
-    "runtime~main.js.map": "/github.io/countdown/static/js/runtime~main.0da44d2b.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/github.io/countdown/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/github.io/countdown/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/github.io/countdown/index.html",
-    "precache-manifest.d66eb2b43ba1bab2820af591bdfa392d.js": "/github.io/countdown/precache-manifest.d66eb2b43ba1bab2820af591bdfa392d.js",
-    "service-worker.js": "/github.io/countdown/service-worker.js",
-    "static/css/main.223ff0d7.chunk.css.map": "/github.io/countdown/static/css/main.223ff0d7.chunk.css.map"
+    "main.css": "./static/css/main.223ff0d7.chunk.css",
+    "main.js": "./static/js/main.5cf80655.chunk.js",
+    "main.js.map": "./static/js/main.5cf80655.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.65aa1cca.chunk.js": "./static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "./static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.d7d626e6b22d2a3df8bc316ec2ff8724.js": "./precache-manifest.d7d626e6b22d2a3df8bc316ec2ff8724.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.223ff0d7.chunk.css.map": "./static/css/main.223ff0d7.chunk.css.map"
   }
 }
