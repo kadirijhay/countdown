@@ -1,5 +1,6 @@
 {
-  "name": "meme-generator",
+  "homepage": "http://kadirijhay/github.io/countdown",
+  "name": "countdown",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
