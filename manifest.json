@@ -1,11 +1,11 @@
 {
-  "short_name": "Countdown",
-  "name": "#100DaysOfCode Countdown Time",
+  "short_name": "Countdown Timer",
+  "name": "#100DaysOfCode Countdown Timer",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "timer.svg",
       "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "type": "image/svg"
     }
   ],
   "start_url": ".",
