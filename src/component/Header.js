@@ -1,9 +1,10 @@
 import React from "react"
 
+
 function Header() {
     return(
         <header>
-            <p>#100DaysOfCode by @gdgogbomoso <br />COUNTDOWN TIMER</p>
+            <p>#100DaysOfCode <br />COUNTDOWN TIMER</p>
         </header>
     )
 }
